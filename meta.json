@@ -1,11 +1,11 @@
 {
   "templateKey": "professional_services",
   "heroVariant": "oversized-editorial",
-  "serviceLayout": "image-rows",
+  "serviceLayout": "typography-grid",
   "ctaStyle": "outline",
-  "paletteSeed": 1,
-  "heroSeed": 1,
-  "copySeed": 1,
+  "paletteSeed": 3,
+  "heroSeed": 3,
+  "copySeed": 3,
   "visualSystem": {
     "key": "editorial-oversized",
     "label": "Editorial / Oversized Typography",
@@ -23,29 +23,30 @@
   "selectionSignals": {
     "servicesCount": 5,
     "imagePoolCount": 2,
-    "hasRelevantImagery": true
+    "hasRelevantImagery": false
   },
   "resolvedVisualDirection": {
-    "palette_source": "design_direction",
-    "palette_key": "monochrome-luxury",
+    "palette_source": "visual_system_locked",
+    "palette_key": "editorial-ink",
     "palette": {
-      "primary": "#1a1a1a",
-      "primaryDark": "#000000",
-      "accent": "#c9a227",
-      "textDark": "#111111",
-      "textOnPrimary": "#ffffff",
-      "bgLight": "#fafafa",
-      "bgAlt": "#efefef",
-      "border": "#dcdcdc",
+      "key": "editorial-ink",
+      "primary": "#2b1d10",
+      "primaryDark": "#160e08",
+      "accent": "#a9702f",
+      "textDark": "#1c140b",
+      "textOnPrimary": "#fbf6ef",
+      "bgLight": "#faf5eb",
+      "bgAlt": "#f1e8d8",
+      "border": "#e3d5bc",
       "radius": "2px",
       "ctaStyle": "outline",
       "headingFont": "Fraunces",
-      "bodyFont": "Inter",
-      "googleFonts": "Fraunces:wght@600;700;800|Inter:wght@400;500;600"
+      "bodyFont": "Source Sans 3",
+      "googleFonts": "Fraunces:wght@600;700;800|Source+Sans+3:wght@400;500;600"
     },
     "hero_variant": "oversized-editorial",
     "section_style": "boxed",
-    "image_category": "engineering",
+    "image_category": "general",
     "matched_keywords": [
       "sophisticated"
     ],
@@ -58,6 +59,6 @@
     "motion_preset_content_gated": false,
     "services_count": 5,
     "image_pool_count": 2,
-    "has_relevant_imagery": true
+    "has_relevant_imagery": false
   }
 }
