@@ -1,11 +1,11 @@
 {
   "templateKey": "professional_services",
   "heroVariant": "oversized-editorial",
-  "serviceLayout": "numbered-list",
+  "serviceLayout": "asymmetric-cards",
   "ctaStyle": "outline",
-  "paletteSeed": 4,
-  "heroSeed": 4,
-  "copySeed": 4,
+  "paletteSeed": 6,
+  "heroSeed": 6,
+  "copySeed": 6,
   "visualSystem": {
     "key": "editorial-oversized",
     "label": "Editorial / Oversized Typography",
