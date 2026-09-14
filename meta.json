@@ -1,0 +1,63 @@
+{
+  "templateKey": "professional_services",
+  "heroVariant": "oversized-editorial",
+  "serviceLayout": "image-rows",
+  "ctaStyle": "outline",
+  "paletteSeed": 1,
+  "heroSeed": 1,
+  "copySeed": 1,
+  "visualSystem": {
+    "key": "editorial-oversized",
+    "label": "Editorial / Oversized Typography",
+    "dark": false,
+    "cardStyle": "outline-mono",
+    "ctaLayout": "split-image",
+    "selectionReason": "explicitly forced"
+  },
+  "motionPreset": {
+    "key": "editorial-split-mask",
+    "label": "Editorial Split-Text + Mask Reveal",
+    "selectionReason": "visual system default (editorial-oversized → editorial-split-mask)",
+    "contentGated": false
+  },
+  "selectionSignals": {
+    "servicesCount": 5,
+    "imagePoolCount": 2,
+    "hasRelevantImagery": true
+  },
+  "resolvedVisualDirection": {
+    "palette_source": "design_direction",
+    "palette_key": "monochrome-luxury",
+    "palette": {
+      "primary": "#1a1a1a",
+      "primaryDark": "#000000",
+      "accent": "#c9a227",
+      "textDark": "#111111",
+      "textOnPrimary": "#ffffff",
+      "bgLight": "#fafafa",
+      "bgAlt": "#efefef",
+      "border": "#dcdcdc",
+      "radius": "2px",
+      "ctaStyle": "outline",
+      "headingFont": "Fraunces",
+      "bodyFont": "Inter",
+      "googleFonts": "Fraunces:wght@600;700;800|Inter:wght@400;500;600"
+    },
+    "hero_variant": "oversized-editorial",
+    "section_style": "boxed",
+    "image_category": "engineering",
+    "matched_keywords": [
+      "sophisticated"
+    ],
+    "visual_system": "editorial-oversized",
+    "visual_system_label": "Editorial / Oversized Typography",
+    "visual_system_reason": "explicitly forced",
+    "motion_preset": "editorial-split-mask",
+    "motion_preset_label": "Editorial Split-Text + Mask Reveal",
+    "motion_preset_reason": "visual system default (editorial-oversized → editorial-split-mask)",
+    "motion_preset_content_gated": false,
+    "services_count": 5,
+    "image_pool_count": 2,
+    "has_relevant_imagery": true
+  }
+}
